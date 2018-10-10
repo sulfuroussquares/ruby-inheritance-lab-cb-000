@@ -4,6 +4,8 @@ def initialize
   @knowledge = []
 end
 
-def learn
+def learn(thing)
+
 end
+
 end
